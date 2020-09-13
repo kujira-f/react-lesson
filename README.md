@@ -6,7 +6,7 @@
 cd workspace
 git clone https://github.com/kujira-f/react-lesson.git
 cd react-lesson
-git branch test
+git checkout test
 git status
 
 git add .
